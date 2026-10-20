@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyanshu Chaudhary
 
-🎓 3rd Year B.Tech CSE Student
+🎓 4th Year B.Tech CSE Student
 💻 Aspiring Software Engineer | AI Enthusiast
 🚀 Building real-world projects with MERN + AI
 
@@ -17,9 +17,9 @@
 
 ## 🚀 Projects
 
-### 🏥 MediVault AI
+### 🏥 MediVault 
 
-> AI-powered healthcare platform for managing and analyzing medical records
+> Centralized healthcare platform for managing and analyzing medical records
 
 * 📂 Secure report storage
 * 🤖 AI report analyzer
